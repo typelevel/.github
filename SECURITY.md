@@ -17,7 +17,7 @@ If you cannot use Keybase, please email a member of the Typelevel Security Team 
 ## Procedure
 
 If the issue is deemed a vulnerability, we will release a patch version of our software
-and make sure that finds it way to Maven Central before we push the patch to GitHub.
+and make sure that finds its way to Maven Central before we push the patch to GitHub.
 After the patch is available on Maven Central, we will also provide a security advisory through GitHub.
 As with every release, the source jars are published to Maven Central at the same time as the binaries.
 
