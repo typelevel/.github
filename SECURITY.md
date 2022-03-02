@@ -12,7 +12,7 @@ Please request to join the [typelevelsec](https://keybase.io/team/typelevelsec) 
 ### E-mail
 
 E-mail is not encrypted, but is preferred to a zero-day!
-If you cannot use Keybase, please email a member of the Typelevel Security Team as listed below.
+If you cannot use Keybase, please email [security@typelevel.org](mailto:security@typelevel.org).
 
 ## Procedure
 
