@@ -8,7 +8,6 @@ Everyone is expected to follow the [Scala Code of Conduct] when discussing the p
 
 Any questions, concerns, or moderation requests please e-mail a moderator.
 
-- Ross A. Baker | [email](mailto:ross@rossabaker.com)
 - Christopher Davenport | [email](mailto:chris@christopherdavenport.tech)
 - Kailuo Wang | [email](mailto:kailuo.wang@gmail.com)
 
