@@ -31,5 +31,5 @@ automatically receive updates.
 |name | github | keybase | email |
 |-----|--------|---------|---------|
 | Ross A. Baker | @rossabaker | @rossabaker | ross@rossabaker.com |
-| Arman Bilge | @armanbilge | @armanbilge | ??? |
+| Arman Bilge | @armanbilge | @arman | ??? |
 | Brian P. Holt | @bpholt | @bpholt | bholt+typelevel-security@planetholt.com |
