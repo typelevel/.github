@@ -21,5 +21,5 @@ automatically receive updates.
 |name | email | PGP public key
 |-----|---------|-----|
 | [Ross A. Baker](https://github.com/rossabaker)| ross@rossabaker.com | [0x975BE5BC29D92CA5](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x904c153733dbb0106915c0bd975be5bc29d92ca5)
-| [Arman Bilge](https://github.com/armanbilge) | arman@armanbilge.com |
+| [Arman Bilge](https://github.com/armanbilge) | arman@armanbilge.com | [0xA335B107E9282548](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1CAE49948EE0A2D7154A2B62A335B107E9282548)
 | [Brian P. Holt](https://github.com/bpholt) | bholt+typelevel-security@planetholt.com |
