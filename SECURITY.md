@@ -1,35 +1,25 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Reporting a Security Issue
 
-[Responsible disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) enhances security for the entire community.
-
-### Keybase
-
-We prefer [keybase](https://keybase.io) as the vehicle for reporting security issues as that gives us an encrypted forum to discuss, analyze, and remediate the threat before an exploit is published.
-Please request to join the [typelevelsec](https://keybase.io/team/typelevelsec) team, and we will create a subteam to discuss the issue with you.
-
-### E-mail
-
-E-mail is not encrypted, but is preferred to a zero-day!
-If you cannot use Keybase, please email [security@typelevel.org](mailto:security@typelevel.org).
+To report a security issue, please email [security@typelevel.org](mailto:security@typelevel.org) with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.  The Security Team will attempt to respond within 3 working days of your email.  If the issue is confirmed as a vulnerability, we will open a Security Advisory.  This project follows a 90 day disclosure timeline.
 
 ## Procedure
 
-If the issue is deemed a vulnerability, we will release a patch version of our software
-and make sure that finds its way to Maven Central before we push the patch to GitHub.
-After the patch is available on Maven Central, we will also provide a security advisory through GitHub.
-As with every release, the source jars are published to Maven Central at the same time as the binaries.
+1. A GitHub Security Advisory will be created in the appropriate repository.
+2. A project member works privately with the reporter to resolve the vulnerability.
+3. The project creates a new release of the package the vulnerabilty affects to deliver its fix.
+4. The project publicly announces the vulnerability and describes how to apply the fix.
 
 ## Scala Steward
 
-We strongly recommend users of our libraries to use [Scala Steward](https://github.com/fthomas/scala-steward) or something similar to 
+We strongly recommend users of our libraries to use [Scala Steward](https://github.com/scala-steward-org/scala-steward) or something similar to 
 automatically receive updates.
 
 ## Typelevel Security Team
 
-|name | github | keybase | email |
-|-----|--------|---------|---------|
-| Ross A. Baker | @rossabaker | @rossabaker | ross@rossabaker.com |
-| Arman Bilge | @armanbilge | @arman | arman@armanbilge.com |
-| Brian P. Holt | @bpholt | @bpholt | bholt+typelevel-security@planetholt.com |
+|name | email | PGP public key
+|-----|---------|-----|
+| [Ross A. Baker](https://github.com/rossabaker)| ross@rossabaker.com | [0x975BE5BC29D92CA5](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x904c153733dbb0106915c0bd975be5bc29d92ca5)
+| [Arman Bilge](https://github.com/armanbilge) | arman@armanbilge.com | [0xA335B107E9282548](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1CAE49948EE0A2D7154A2B62A335B107E9282548)
+| [Brian P. Holt](https://github.com/bpholt) | bholt+typelevel-security@planetholt.com |
