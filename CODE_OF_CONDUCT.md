@@ -8,8 +8,9 @@ Everyone is expected to follow the [Scala Code of Conduct] when discussing the p
 
 Any questions, concerns, or moderation requests please e-mail a moderator.
 
-- Christopher Davenport | [email](mailto:chris@christopherdavenport.tech)
-- Kailuo Wang | [email](mailto:kailuo.wang@gmail.com)
+- Christopher Davenport | [email](mailto:chris@chrisdavenport.tech)
+- Jasna Rodulfa-Blemberg | [email](mailto:jasna.robl@gmail.com)
+- Sam Pillsworth | [email](mailto:sam@blerf.ca)
 
 And of course, always feel free to reach out to anyone with the **mods** role in [Discord](https://discord.gg/QNnHKHq5Ts).
 
