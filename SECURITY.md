@@ -2,7 +2,12 @@
 
 ## Reporting a Security Issue
 
-To report a security issue, please email [security@typelevel.org](mailto:security@typelevel.org) with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.  The Security Team will attempt to respond within 3 working days of your email.  If the issue is confirmed as a vulnerability, we will open a Security Advisory.  This project follows a 90 day disclosure timeline.
+To report a security issue, please use one of the following methods:
+
+1. Navigate to the "Security and quality" tab at the top of this repository, click the "Report a vulnerability" button, and complete the form as much as possible.
+2. Email security@typelevel.org with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
+
+The [Security Team](#typelevel-security-team) will attempt to respond within 3 working days of your report.  If the issue is confirmed as a vulnerability, we will open a Security Advisory.  This project follows a 90 day disclosure timeline.
 
 ## Procedure
 
