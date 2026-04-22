@@ -6,14 +6,8 @@ Everyone is expected to follow the [Typelevel Code of Conduct] when discussing t
 
 ## Moderation
 
-If you have any questions, concerns, or moderation requests, please contact a moderator.
-
-- Sam Pillsworth | [email](mailto:sam@blerf.ca)
-- Andrew Valencik | [email](mailto:andrew.valencik@gmail.com)
-- Kateu Herbert | [email](mailto:hkateu@gmail.com)
-- Arman Bilge | [email](mailto:armanbilge@gmail.com)
-- Lucas Satabin | [email](mailto:lucas.satabin@gnieh.org)
-
-And of course, always feel free to reach out to anyone with the **mods** role in [Discord](https://discord.gg/QNnHKHq5Ts).
+If you have any questions, concerns, or moderation requests, please [contact the Code of Conduct Committee][contact] or feel free to reach out to anyone with the **mods** role on the [Typelevel Discord server][discord].
 
 [Typelevel Code of Conduct]: https://typelevel.org/code-of-conduct.html
+[contact]: https://typelevel.org/code-of-conduct/#contact
+[discord]: https://discord.gg/typelevel-632277896739946517
