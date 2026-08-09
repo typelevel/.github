@@ -14,5 +14,6 @@ We are an ecosystem of [Scala](https://scala-lang.org/)-based projects and a com
 🦋 [Bluesky](https://bsky.app/profile/typelevel.org)
 🐘 [Mastodon](https://fosstodon.org/@typelevel)
 📺 [YouTube](https://www.youtube.com/@typelevel)
+🌟 [Luma](https://luma.com/typelevel)
 👔 [LinkedIn](https://linkedin.com/company/typelevel-foundation)
 🩷 [GitHub Sponsors](https://github.com/sponsors/typelevel)
