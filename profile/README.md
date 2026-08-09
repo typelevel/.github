@@ -3,8 +3,8 @@
 We are an ecosystem of [Scala](https://scala-lang.org/)-based projects and a community of people united to foster an inclusive, welcoming, and safe environment around functional programming. We work together to develop projects that apply functional programming to challenging problems relevant in industry. Our community culture embraces curiosity and mentoring and we don't shy away from experimenting with new and exciting ideas. Most of all, we love to make programming joyful and social.
 
 ### Get involved!
-🐣 [Learn](https://typelevel.org/cats/resources_for_learners.html)
-🌱 [Good First Issues](https://github.com/orgs/typelevel/projects/1)
+🐣 [Learn](https://typelevel.org/community/learning-resources.html)
+🌱 [Start Contributing](https://typelevel.org/community/start-contributing.html)
 🧑‍🏫 [Virtual Meetups](https://typelevel.org/community/meetups.html)
 🤝 [Code of Conduct](https://typelevel.org/code-of-conduct/)
 
